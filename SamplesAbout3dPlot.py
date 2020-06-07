@@ -371,24 +371,6 @@ if __name__ == '__main__':
 	# ax=fig.add_subplot(111,projection='3d') # new version
 	ax=fig.gca(projection='3d') # 3rd way
 
-	# baseUseOfAxes3D(ax)
-	# drawBall(ax)
-	# draw3DCurve(ax)
-	# drawScatter(ax)
-	# drawWireFrame(ax)
-	# drawSurfacePlot(ax)
-	# drawSurfaceWithCustomedColors(ax)
-	# drawTriangleSurfaces(ax)
-	# drawTriangleSurfacesWithTriang()
-	# drawContour3d(ax)
-	# drawContourOn3Dim(ax)
-	# drawContourf3d(ax)
-	# drawContourfOn3Dim(ax)
-	# drawPolys3D(ax)
-	# drawBars(ax)
-	# drawQuiver(ax)
-	# draw2dCollections3d(ax)
-	# drawText3D(ax)
 	mixedSubplots()
 
 	plt.show()
